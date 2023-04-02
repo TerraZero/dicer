@@ -1,0 +1,54 @@
+[
+  {
+    "accept": 188,
+    "iteration": 1,
+    "values": [
+      {
+        "name": "blur",
+        "min": 30,
+        "max": 31
+      },
+      {
+        "name": "threshold",
+        "min": 50,
+        "max": 100
+      },
+      {
+        "name": "canny1",
+        "min": 50,
+        "max": 200
+      },
+      {
+        "name": "canny2",
+        "min": 50,
+        "max": 200
+      }
+    ]
+  },
+  {
+    "accept": 71,
+    "iteration": 1,
+    "values": [
+      {
+        "name": "blur",
+        "min": 30,
+        "max": 31
+      },
+      {
+        "name": "threshold",
+        "min": 50,
+        "max": 75
+      },
+      {
+        "name": "canny1",
+        "min": 50,
+        "max": 200
+      },
+      {
+        "name": "canny2",
+        "min": 50,
+        "max": 200
+      }
+    ]
+  }
+]
